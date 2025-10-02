@@ -1,0 +1,47 @@
+[ =� ] Sektor 00 : DATA
+[ �	� ] Sektor 01 : DATA
+[ � ] Sektor 02 : DATA
+[ � ] Sektor 03 : DATA
+[ � ] Sektor 04 : DATA
+[ " ] Sektor 05 : DATA
+[  ] Sektor 06 : DATA
+[ 
+ ] Sektor 07 : DATA
+[  ] Sektor 08 : DATA
+[  ] Sektor 09 : DATA
+[  ] Sektor 0A : DATA
+[  ] Sektor 0B : DATA
+[  ] Sektor 0C : DATA
+[  ] Sektor 0D : DATA
+[  ] Sektor 0E : DATA
+[  ] Sektor 0F : DATA
+[  ] Sektor 10 : DATA
+[  ] Sektor 11 : DATA
+[  ] Sektor 12 : DATA
+[  ] Sektor 13 : DATA
+[  ] Sektor 14 : DATA
+[  ] Sektor 15 : DATA
+[  ] Sektor 16 : DATA
+[  ] Sektor 17 : DATA
+[  ] Sektor 18 : DATA
+[  ] Sektor 19 : DATA
+[  ] Sektor 1A : DATA
+[  ] Sektor 1B : DATA
+[  ] Sektor 1C : DATA
+[  ] Sektor 1D : DATA
+[  ] Sektor 1E : DATA
+[  ] Sektor 1F : DATA
+[  ] Sektor 20 : DATA
+[  ] Sektor 21 : DATA
+[  ] Sektor 22 : DATA
+[  ] Sektor 23 : DATA
+[  ] Sektor 24 : DATA
+[  ] Sektor 25 : DATA
+[  ] Sektor 26 : DATA
+[  ] Sektor 27 : DATA
+[ � ] Sektor 28 : DATA
+[ � ] Sektor 29 : DATA
+[  ] Sektor 2A : DATA
+[  ] Sektor 2B : DATA
+[  ] Sektor 2C : DATA
+[  ] Sektor 2D : DATA
