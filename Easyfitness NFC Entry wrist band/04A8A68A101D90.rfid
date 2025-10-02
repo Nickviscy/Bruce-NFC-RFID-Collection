@@ -1,0 +1,10 @@
+Filetype: Bruce RFID File
+Version 1
+Device type: MIFARE 1KB
+# UID, ATQA and SAK are common for all formats
+UID: 04 A8 A6 8A 10 1D 90
+SAK: 08
+ATQA: 00 44
+# Memory dump
+Pages total: 0
+Pages read: 0
